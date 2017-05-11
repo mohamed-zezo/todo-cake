@@ -17,7 +17,7 @@ ToDoIt is a full-stack MEAN app that allows users to sign up for an account and 
 
 See the running demo at:
 
-http://todocake.mybluemix.net
+https://todocake.mybluemix.net
 
 ## Development
 
