@@ -3,10 +3,10 @@
   "description": "An Angular ToDo Web App with User Authentication",
   "main": "index.js",
   "authors": [
-    "Duncan Leung"
+    "Mohamed_zezo"
   ],
   "license": "ISC",
-  "homepage": "https://github.com/duncanleung/todo",
+  "homepage": "https://github.com/mohamed-zezo/todo-cake",
   "moduleType": [],
   "ignore": [
     "**/.*",

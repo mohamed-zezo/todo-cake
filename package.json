@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/duncanleung/todo.git"
+    "url": "git+https://github.com/mohamed-zezo/todo-cake.git"
   },
   "author": "Duncan Leung",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/duncanleung/todo/issues"
+    "url": "https://github.com/mohamed-zezo/todo-cake"
   },
-  "homepage": "https://github.com/duncanleung/todo#readme",
+  "homepage": "https://github.com/mohamed-zezo/todo-cake#readme",
   "dependencies": {
     "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.14.2",
