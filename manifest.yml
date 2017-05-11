@@ -1,0 +1,13 @@
+---
+declared-services:
+  todo-mongo:
+    label: todocake
+    plan: 100
+applications:
+- name:    todocake
+  host:    todocake
+  memory:  768M
+  services:
+  - todoit-app
+  env:
+    env_type: production

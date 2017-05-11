@@ -1,0 +1,52 @@
+.
+├── app
+│   ├── models
+│   │   ├── todos.server.model.js
+│   │   └── user.server.model.js
+│   ├── routes
+│   │   ├── todos.server.routes.js
+│   │   └── users.server.routes.js
+│   └── views
+│       ├── index.ejs
+│       ├── login.ejs
+│       └── signup.ejs
+├── bower.json
+├── config
+│   ├── config.js
+│   ├── env
+│   │   ├── development.js
+│   │   └── production.js
+│   └── passport.js
+├── gulpfile.js
+├── manifest.yml
+├── npm-debug.log
+├── package.json
+├── Procfile
+├── public
+│   ├── application.js
+│   ├── main-module
+│   │   ├── main.client.module.js
+│   │   └── views
+│   │       └── main.client.view.html
+│   ├── resources
+│   │   ├── css
+│   │   │   ├── styles.css
+│   │   │   └── styles.scss
+│   │   └── img
+│   │       ├── background.jpg
+│   │       ├── todo-100.png
+│   │       ├── todolist-header.jpg
+│   │       └── todo.png
+│   ├── todos-module
+│   │   ├── controllers
+│   │   │   └── todos.client.controller.js
+│   │   ├── todos.client.module.js
+│   │   └── views
+│   │       ├── edit-todo.client.view.html
+│   │       ├── list-todos.client.view.html
+│   │       └── view-todo.client.view.html
+│   └── users-module
+│       └── users.client.module.js
+└── server.js
+
+1715 directories, 12134 files
